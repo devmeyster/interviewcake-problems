@@ -11,7 +11,7 @@
     ]);
     returns [1, 2, 3, 6, 9, 8, 7, 4, 5]
  */
-
+ 
 var spiral = function(matrix){
 
   var results = "";

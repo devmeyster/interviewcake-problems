@@ -5,7 +5,7 @@ var BinarySearchTree = function(value){
   binaryTree.right = null;
   return binaryTree;
 };
-
+ 
 var binaryTreePrototype = {};
 
 binaryTreePrototype.insert = function(val){
